@@ -1,0 +1,3 @@
+/home/matheusvictor/CLionProjects/strigns/cmake-build-debug/CMakeFiles/strigns.dir
+/home/matheusvictor/CLionProjects/strigns/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matheusvictor/CLionProjects/strigns/cmake-build-debug/CMakeFiles/rebuild_cache.dir
